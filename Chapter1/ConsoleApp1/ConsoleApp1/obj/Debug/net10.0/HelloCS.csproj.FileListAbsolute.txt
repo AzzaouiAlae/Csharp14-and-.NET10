@@ -1,0 +1,14 @@
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\HelloCS.exe
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\HelloCS.deps.json
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\HelloCS.runtimeconfig.json
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\HelloCS.dll
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\HelloCS.pdb
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\HelloCS.AssemblyInfo.cs
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\HelloCS.dll
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\HelloCS.dll
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\HelloCS.pdb
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\HelloCS.genruntimeconfig.cache
+C:\Users\azzao\OneDrive\Source\cs14.net10\Chapter1\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\HelloCS.dll
