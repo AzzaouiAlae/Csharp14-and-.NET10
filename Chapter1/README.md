@@ -1,7 +1,7 @@
 # C# 14 and .NET10
 ## Chapter 1 - Hello, C#! Welcome, .NET!
 ### Introducing this book and its contents
-### Setting code solutions for this book
+- Getting code solutions for this book
 - .NET terms used in this book
 - The style of this book
 - Topics covered by this book
@@ -10,7 +10,7 @@
 - Topics covered by Tools and Skills for .NET 10
 - Shared content across all my books
 - Finding all my books
-- Setting up your development environment
+### Setting up your development environment
 - Choosing the appropriate tool and application type for learning
 - VS Code for cross-platform development
 - GitHub Codespaces for development in the cloud
