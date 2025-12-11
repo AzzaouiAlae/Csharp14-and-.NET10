@@ -5,3 +5,7 @@ C#14 and .NET10 - Modern Cross-Platform Devlopment Fundamentals book Then Editio
 ##Getting code solutions for this book
 ##.NET terms used in this book
 ##The style of this book
+
+
+
+
