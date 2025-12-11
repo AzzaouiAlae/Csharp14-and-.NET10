@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TasMUpjp+Q0=",
+  "success": true,
+  "projectFilePath": "/home/aazzaoui/Desktop/CSharp14/Chapter2/Exercise_Numbers/Exercise_Numbers.csproj",
+  "expectedPackageFiles": [
+    "/home/aazzaoui/.nuget/packages/spectre.cli/0.49.0/spectre.cli.0.49.0.nupkg.sha512",
+    "/home/aazzaoui/.nuget/packages/spectre.console/0.54.0/spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}

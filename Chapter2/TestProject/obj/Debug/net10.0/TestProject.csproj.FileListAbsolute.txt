@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/bin/Debug/net10.0/TestProject
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/bin/Debug/net10.0/TestProject.deps.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/bin/Debug/net10.0/TestProject.runtimeconfig.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/bin/Debug/net10.0/TestProject.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/bin/Debug/net10.0/TestProject.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.sourcelink.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/refint/TestProject.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/TestProject.genruntimeconfig.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/TestProject/obj/Debug/net10.0/ref/TestProject.dll

@@ -1,0 +1,13 @@
+string name = typeof(Program).Namespace ?? "<null>";
+Console.WriteLine(Environment.CurrentDirectory);
+Console.WriteLine(Environment.OSVersion.VersionString);
+Console.WriteLine("Namespace: {0}", typeof(Program).Namespace ?? "<null>");
+
+#!/usr/bin/dotnet run
+#:package Humanizer@3.0.1
+
+using System;
+using Humanizer;
+
+Console.Clear();
+Console.WriteLine(TimeSpan.FromDays(1).Humanize());

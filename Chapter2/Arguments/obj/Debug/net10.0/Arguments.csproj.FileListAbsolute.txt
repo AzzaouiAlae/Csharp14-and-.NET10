@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.AssemblyInfo.cs
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.sourcelink.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/bin/Debug/net10.0/Arguments
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/bin/Debug/net10.0/Arguments.deps.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/bin/Debug/net10.0/Arguments.runtimeconfig.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/bin/Debug/net10.0/Arguments.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/bin/Debug/net10.0/Arguments.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/refint/Arguments.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/Arguments.genruntimeconfig.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Arguments/obj/Debug/net10.0/ref/Arguments.dll

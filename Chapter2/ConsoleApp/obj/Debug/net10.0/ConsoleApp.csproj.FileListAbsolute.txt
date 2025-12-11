@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.sourcelink.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll

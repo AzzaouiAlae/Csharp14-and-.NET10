@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/bin/Debug/net10.0/CSharp13New_s
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/bin/Debug/net10.0/CSharp13New_s.deps.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/bin/Debug/net10.0/CSharp13New_s.runtimeconfig.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/bin/Debug/net10.0/CSharp13New_s.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/bin/Debug/net10.0/CSharp13New_s.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.AssemblyInfo.cs
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.sourcelink.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/refint/CSharp13New_s.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/CSharp13New_s.genruntimeconfig.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/CSharp13New_s/obj/Debug/net10.0/ref/CSharp13New_s.dll

@@ -1,0 +1,8 @@
+
+
+case Cat fourLeggedCat when fourLeggedCat.Legs == 4:
+case Cat { Legs: 4 } fourLeggedCat:
+
+goto case 1;
+A_label:
+

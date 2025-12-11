@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/bin/Debug/net10.0/Numbers
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/bin/Debug/net10.0/Numbers.deps.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/bin/Debug/net10.0/Numbers.runtimeconfig.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/bin/Debug/net10.0/Numbers.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/bin/Debug/net10.0/Numbers.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.AssemblyInfo.cs
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.sourcelink.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/refint/Numbers.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/Numbers.genruntimeconfig.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Numbers/obj/Debug/net10.0/ref/Numbers.dll

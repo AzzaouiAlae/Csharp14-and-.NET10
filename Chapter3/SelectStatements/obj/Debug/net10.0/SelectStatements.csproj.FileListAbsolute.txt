@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/bin/Debug/net10.0/SelectStatements
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/bin/Debug/net10.0/SelectStatements.deps.json
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/bin/Debug/net10.0/SelectStatements.runtimeconfig.json
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/bin/Debug/net10.0/SelectStatements.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/bin/Debug/net10.0/SelectStatements.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.AssemblyInfo.cs
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.sourcelink.json
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/refint/SelectStatements.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/SelectStatements.genruntimeconfig.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter3/SelectStatements/obj/Debug/net10.0/ref/SelectStatements.dll

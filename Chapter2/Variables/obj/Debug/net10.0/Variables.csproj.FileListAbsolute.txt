@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/bin/Debug/net10.0/Variables
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/bin/Debug/net10.0/Variables.deps.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/bin/Debug/net10.0/Variables.runtimeconfig.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/bin/Debug/net10.0/Variables.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/bin/Debug/net10.0/Variables.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.AssemblyInfo.cs
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.sourcelink.json
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/refint/Variables.dll
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.pdb
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/Variables.genruntimeconfig.cache
+/home/aazzaoui/Desktop/CSharp14/Chapter2/Variables/obj/Debug/net10.0/ref/Variables.dll
